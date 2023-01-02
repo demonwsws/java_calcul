@@ -58,6 +58,7 @@ public class Main {
         }
         switch (arg)
         {
+
             case "+":
                 return 1;
             case "-":
