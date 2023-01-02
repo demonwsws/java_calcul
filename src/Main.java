@@ -56,8 +56,7 @@ public class Main {
             return 0; // болььше одного символа
 
         }
-        switch (arg)
-        {
+        switch (arg)         {
 
             case "+":
                 return 1;
@@ -80,7 +79,7 @@ public class Main {
 
     //разбить  на эллементы массива: разделение пробелом
     public static double cut(){
-
+    return 0;
 
     }
     public  static void main(String[] args) {
